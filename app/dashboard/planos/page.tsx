@@ -30,13 +30,13 @@ export default function PlanosPage() {
     {
       name: "Sardinha",
       description: "Comece seus primeiros testes de segurança",
-      price: "R$100,00",
+      price: "R$199,99",
       features: ["Até 10 campanhas/mês", "Relatórios essenciais", "Templates pré-configurados", "Suporte via email"],
     },
     {
       name: "Salmão",
       description: "Segurança robusta para equipes médias",
-      price: "R$200,00",
+      price: "R$499,99",
       popular: true,
       features: [
         "Até 50 campanhas/mês",
@@ -49,7 +49,7 @@ export default function PlanosPage() {
     {
       name: "Tubarão",
       description: "Proteção enterprise sem limites",
-      price: "R$3.300,00",
+      price: "R$ 1.999,99",
       features: [
         "Campanhas ilimitadas",
         "Suite completa de analytics",

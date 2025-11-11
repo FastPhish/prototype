@@ -118,14 +118,14 @@ export default function LandingPage() {
               </div>
 
               <div className="mb-6">
-                <div className="text-4xl font-bold text-white">R$100</div>
+                <div className="text-4xl font-bold text-white">R$ 199,99</div>
                 <div className="text-sm text-gray-400">por mês</div>
               </div>
 
               <div className="space-y-3 mb-8 flex-grow">
                 <div className="flex items-center gap-2 text-sm">
                   <div className="w-1.5 h-1.5 bg-orange-500 rounded-full" />
-                  <span>Até 10 campanhas/mês</span>
+                  <span>Até 5 campanhas/mês</span>
                 </div>
                 <div className="flex items-center gap-2 text-sm">
                   <div className="w-1.5 h-1.5 bg-orange-500 rounded-full" />
@@ -158,14 +158,14 @@ export default function LandingPage() {
               </div>
 
               <div className="mb-6">
-                <div className="text-4xl font-bold text-white">R$200</div>
+                <div className="text-4xl font-bold text-white">R$ 499,99</div>
                 <div className="text-sm text-gray-400">por mês</div>
               </div>
 
               <div className="space-y-3 mb-8 flex-grow">
                 <div className="flex items-center gap-2 text-sm">
                   <div className="w-1.5 h-1.5 bg-orange-500 rounded-full" />
-                  <span>Até 50 campanhas/mês</span>
+                  <span>Até 15 campanhas/mês</span>
                 </div>
                 <div className="flex items-center gap-2 text-sm">
                   <div className="w-1.5 h-1.5 bg-orange-500 rounded-full" />
@@ -196,14 +196,14 @@ export default function LandingPage() {
               </div>
 
               <div className="mb-6">
-                <div className="text-4xl font-bold text-white">R$3.300</div>
+                <div className="text-4xl font-bold text-white">R$ 1.999,99</div>
                 <div className="text-sm text-gray-400">por mês</div>
               </div>
 
               <div className="space-y-3 mb-8 flex-grow">
                 <div className="flex items-center gap-2 text-sm">
                   <div className="w-1.5 h-1.5 bg-orange-500 rounded-full" />
-                  <span>Campanhas ilimitadas</span>
+                  <span>Campanhas Customizadas</span>
                 </div>
                 <div className="flex items-center gap-2 text-sm">
                   <div className="w-1.5 h-1.5 bg-orange-500 rounded-full" />
